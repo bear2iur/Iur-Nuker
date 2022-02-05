@@ -1,6 +1,6 @@
 # Iur-Nuker avery just without getting logged lmao
 just download the zip and hit left click on the file extract here
-should look like this tyhen hit on iur nuker bot a account token or bot token
+should look like this then hit on iur nuker bot a account token or bot token
 
 ![image](https://user-images.githubusercontent.com/97348366/152634338-9683bb95-4c43-43fe-a352-295520120601.png)
 
